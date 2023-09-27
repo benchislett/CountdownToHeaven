@@ -8,6 +8,7 @@ const Completionist = () => <h1 className='heading'>See you soon!<br/> I love yo
 const HappyDate = new Date("November 23, 2023 17:30 UTC-4");
 // const HappyDate = Date.now() + 3000;
 
+// Credit: https://github.com/x1-Il/Birth-chrono
 const renderer = ({ days, hours, minutes, seconds, completed }) => {
   if (completed) {
     // Render a completed state
