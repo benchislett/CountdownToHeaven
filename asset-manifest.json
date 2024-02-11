@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/CountdownToKaitlyn/static/css/main.99b247e1.css",
-    "main.js": "/CountdownToKaitlyn/static/js/main.0840da5f.js",
+    "main.js": "/CountdownToKaitlyn/static/js/main.b4d2808b.js",
     "static/js/787.482db2ac.chunk.js": "/CountdownToKaitlyn/static/js/787.482db2ac.chunk.js",
     "index.html": "/CountdownToKaitlyn/index.html",
     "main.99b247e1.css.map": "/CountdownToKaitlyn/static/css/main.99b247e1.css.map",
-    "main.0840da5f.js.map": "/CountdownToKaitlyn/static/js/main.0840da5f.js.map",
+    "main.b4d2808b.js.map": "/CountdownToKaitlyn/static/js/main.b4d2808b.js.map",
     "787.482db2ac.chunk.js.map": "/CountdownToKaitlyn/static/js/787.482db2ac.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.99b247e1.css",
-    "static/js/main.0840da5f.js"
+    "static/js/main.b4d2808b.js"
   ]
 }
