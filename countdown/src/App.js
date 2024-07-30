@@ -5,7 +5,7 @@ import Countdown from 'react-countdown';
 // Random component
 const Completionist = () => <h1 className='heading'>See you soon!<br/> I love you!</h1>;
 
-const HappyDate = new Date("Auguest 31, 2024, 08:00 UTC");
+const HappyDate = new Date("August 30, 2024, 16:00 EDT");
 
 // Credit: https://github.com/x1-Il/Birth-chrono
 const renderer = ({ days, hours, minutes, seconds, completed }) => {
